@@ -1,5 +1,8 @@
 class BankAccount
 
-def initialize(bank)
+def initialize(name)
+  @name = name 
+  @balance = balance
+   
 end
 end
